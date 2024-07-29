@@ -1,0 +1,59 @@
+[
+    {
+        "id": 1,
+        "name": "Air Jordan 6 Retro",
+       "price": 250.00,
+        "salePrice": 200,
+        "description": "MJ wore 'em when he claimed his first championship and you'll be wearing 'em for—well, whatever you want. Laden with dynamic design lines and those iconic lace locks, these sneakers bring throwback style to any 'fit. Lace up, and let your kicks do the talking.",
+        "shortDesc": "Genuine and synthetic leather and textile materials provide lightweight structure and support.",
+        "thumb": "https://res.cloudinary.com/panachora/image/upload/v1722243851/dealhub/Shoes/Jordans/6%20Retro/Air_Jordan_6_Retro-2-thumb_4.png",
+        "category": "Shoes",
+        "featured": false,
+        "images": [
+            {
+                "id": 7,
+                "src": "https://res.cloudinary.com/panachora/image/upload/v1722243851/dealhub/Shoes/Jordans/6%20Retro/Air_Jordan_6_Retro-2.png"
+            },
+            {
+                "id": 8,
+                "src": "https://res.cloudinary.com/panachora/image/upload/v1722243851/dealhub/Shoes/Jordans/6%20Retro/Air_Jordan_6_Retro-1.png"
+            },{
+                "id": 9,
+                "src": "https://res.cloudinary.com/panachora/image/upload/v1722243852/dealhub/Shoes/Jordans/6%20Retro/Air_Jordan_6_Retro-3.png"
+            },{
+                "id": 1,
+                "src": "https://res.cloudinary.com/panachora/image/upload/v1722243852/dealhub/Shoes/Jordans/6%20Retro/Air_Jordan_6_Retro.png"
+            }
+        ],
+        "averageRating": 0.00
+    },
+    {
+        "id": 1,
+        "name": "Air Jordan 8 Retro",
+        "price": 250.00,
+        "salePrice": 200,
+        "description": "MJ wore 'em when he claimed his first championship and you'll be wearing 'em for—well, whatever you want. Laden with dynamic design lines and those iconic lace locks, these sneakers bring throwback style to any 'fit. Lace up, and let your kicks do the talking.",
+        "shortDesc": "Genuine and synthetic leather and textile materials provide lightweight structure and support.",
+        "thumb": "https://res.cloudinary.com/panachora/image/upload/v1722243851/dealhub/Shoes/Jordans/6%20Retro/Air_Jordan_6_Retro-2-thumb_4.png",
+        "category": "Shoes",
+        "featured": false,
+        "images": [
+            {
+                "id": 7,
+                "src": "https://res.cloudinary.com/panachora/image/upload/v1722243851/dealhub/Shoes/Jordans/6%20Retro/Air_Jordan_6_Retro-2.png"
+            },
+            {
+                "id": 8,
+                "src": "https://res.cloudinary.com/panachora/image/upload/v1722243851/dealhub/Shoes/Jordans/6%20Retro/Air_Jordan_6_Retro-1.png"
+            },{
+                "id": 9,
+                "src": "https://res.cloudinary.com/panachora/image/upload/v1722243852/dealhub/Shoes/Jordans/6%20Retro/Air_Jordan_6_Retro-3.png"
+            },{
+                "id": 1,
+                "src": "https://res.cloudinary.com/panachora/image/upload/v1722243852/dealhub/Shoes/Jordans/6%20Retro/Air_Jordan_6_Retro.png"
+            }
+        ],
+        "averageRating": 0.00
+    }
+]
+
