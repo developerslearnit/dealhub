@@ -25,35 +25,145 @@
                 "src": "https://res.cloudinary.com/panachora/image/upload/v1722243852/dealhub/Shoes/Jordans/6%20Retro/Air_Jordan_6_Retro.png"
             }
         ],
-        "averageRating": 0.00
+        "averageRating": 3.50
     },
     {
-        "id": 1,
+        "id": 2,
         "name": "Air Jordan 8 Retro",
         "price": 250.00,
         "salePrice": 200,
-        "description": "MJ wore 'em when he claimed his first championship and you'll be wearing 'em for—well, whatever you want. Laden with dynamic design lines and those iconic lace locks, these sneakers bring throwback style to any 'fit. Lace up, and let your kicks do the talking.",
-        "shortDesc": "Genuine and synthetic leather and textile materials provide lightweight structure and support.",
-        "thumb": "https://res.cloudinary.com/panachora/image/upload/v1722243851/dealhub/Shoes/Jordans/6%20Retro/Air_Jordan_6_Retro-2-thumb_4.png",
+        "description": "Inspired by the original AJ1, this mid-top edition maintains the iconic look you love while choice colors and crisp leather give it a distinct identity.",
+        "shortDesc": "Inspired by the original AJ1, this mid-top edition maintains the iconic look you love ....",
+        "thumb": "https://res.cloudinary.com/panachora/image/upload/v1722243853/dealhub/Shoes/Jordans/8%20Retro/Air_Jordan_13_Retro-3-thumb_2.png",
         "category": "Shoes",
         "featured": false,
         "images": [
             {
                 "id": 7,
-                "src": "https://res.cloudinary.com/panachora/image/upload/v1722243851/dealhub/Shoes/Jordans/6%20Retro/Air_Jordan_6_Retro-2.png"
+                "src": "https://res.cloudinary.com/panachora/image/upload/v1722243854/dealhub/Shoes/Jordans/8%20Retro/Air_Jordan_13_Retro.png"
             },
             {
                 "id": 8,
-                "src": "https://res.cloudinary.com/panachora/image/upload/v1722243851/dealhub/Shoes/Jordans/6%20Retro/Air_Jordan_6_Retro-1.png"
+                "src": "https://res.cloudinary.com/panachora/image/upload/v1722243854/dealhub/Shoes/Jordans/8%20Retro/Air_Jordan_13_Retro-3.png"
             },{
                 "id": 9,
-                "src": "https://res.cloudinary.com/panachora/image/upload/v1722243852/dealhub/Shoes/Jordans/6%20Retro/Air_Jordan_6_Retro-3.png"
+                "src": "https://res.cloudinary.com/panachora/image/upload/v1722243852/dealhub/Shoes/Jordans/8%20Retro/Air_Jordan_13_Retro-2.png"
             },{
                 "id": 1,
-                "src": "https://res.cloudinary.com/panachora/image/upload/v1722243852/dealhub/Shoes/Jordans/6%20Retro/Air_Jordan_6_Retro.png"
+                "src": "https://res.cloudinary.com/panachora/image/upload/v1722243852/dealhub/Shoes/Jordans/8%20Retro/Air_Jordan_13_Retro-1.png"
             }
         ],
-        "averageRating": 0.00
+        "averageRating": 5.00
+    },
+    {
+        "id": 3,
+        "name": "KD17 x Metro Boomin",
+        "price": 125.00,
+        "salePrice": 120.00,
+        "description": "The Nike KD 17 “Metro Boomin” is set to release on June 14th for $160 alongside its two “Producer Pack” KD 17 counterparts. Until then, enjoy a first look below.",
+        "shortDesc": "The Nike KD 17 “Metro Boomin” is set to release on June 14th for $160 alongside its two “Producer Pack” KD 17 counterparts.",
+        "thumb": "https://res.cloudinary.com/panachora/image/upload/v1722243854/dealhub/Shoes/KD17%20x%20Metro%20Boomin/KD17_x_Metro_Boomin-3-thumb_3.png",
+        "category": "Shoes",
+        "featured": false,
+        "images": [
+            {
+                "id": 7,
+                "src": "https://res.cloudinary.com/panachora/image/upload/v1722243855/dealhub/Shoes/KD17%20x%20Metro%20Boomin/KD17_x_Metro_Boomin-3.png"
+            },
+            {
+                "id": 8,
+                "src": "https://res.cloudinary.com/panachora/image/upload/v1722243855/dealhub/Shoes/KD17%20x%20Metro%20Boomin/KD17_x_Metro_Boomin.png"
+            },{
+                "id": 9,
+                "src": "https://res.cloudinary.com/panachora/image/upload/v1722243853/dealhub/Shoes/KD17%20x%20Metro%20Boomin/KD17_x_Metro_Boomin-1.png"
+            },{
+                "id": 1,
+                "src": "https://res.cloudinary.com/panachora/image/upload/v1722243853/dealhub/Shoes/KD17%20x%20Metro%20Boomin/KD17_x_Metro_Boomin-2.png"
+            }
+        ],
+        "averageRating": 5.00
+    },
+    {
+        "id": 4,
+        "name": "LeBron NXXT Gen AMPD",
+        "price": 170,
+        "salePrice": 144.97,
+        "description": "Whether you’re a dunk contest-like leaper or a below-the-rim wonder roaming the baseline, feel fast, low to the court and assured in the LeBron NXXT Gen. We specifically tailored it to meet the demands of today’s fast-paced game, so that you can stay ahead of the opposition with your speed in all directions.",
+        "shortDesc": "Whether you’re a dunk contest-like leaper or a below-the-rim wonder roaming the baseline, feel fast, low to the court and assured in the LeBron NXXT Gen",
+        "thumb": "https://res.cloudinary.com/panachora/image/upload/v1722243855/dealhub/Shoes/LeBron%20NXXT%20Gen%20AMPD/LeBron_NXXT_Gen_AMPD-2-thumb_3.png",
+        "category": "Shoes",
+        "featured": false,
+        "images": [
+            {
+                "id": 7,
+                "src": "https://res.cloudinary.com/panachora/image/upload/v1722243856/dealhub/Shoes/LeBron%20NXXT%20Gen%20AMPD/LeBron_NXXT_Gen_AMPD.png"
+            },
+            {
+                "id": 8,
+                "src": "https://res.cloudinary.com/panachora/image/upload/v1722243856/dealhub/Shoes/LeBron%20NXXT%20Gen%20AMPD/LeBron_NXXT_Gen_AMPD-2.png"
+            },{
+                "id": 9,
+                "src": "https://res.cloudinary.com/panachora/image/upload/v1722243856/dealhub/Shoes/LeBron%20NXXT%20Gen%20AMPD/LeBron_NXXT_Gen_AMPD-3.png"
+            },{
+                "id": 1,
+                "src": "https://res.cloudinary.com/panachora/image/upload/v1722243855/dealhub/Shoes/LeBron%20NXXT%20Gen%20AMPD/LeBron_NXXT_Gen_AMPD-1.png"
+            }
+        ],
+        "averageRating": 5.00
+    }
+    ,
+    {
+        "id": 5,
+        "name": "Jordan Sport",
+        "price": 120,
+        "salePrice": 0.00,
+        "description": "Gear up for your warmup. Lightweight and relaxed, this jacket updates MJ's iconic pre-game look with fresh design lines and color blocking.",
+        "shortDesc": "Gear up for your warmup. Lightweight and relaxed, this jacket updates MJ's iconic pre-game look with fresh design lines and color blocking.",
+        "thumb": "https://res.cloudinary.com/panachora/image/upload/v1722243835/dealhub/Clothing/Jordan%20Sport/Jordan_Sport-2-thumb_3.png",
+        "category": "Clothing",
+        "featured": false,
+        "images": [
+            {
+                "id": 7,
+                "src": "https://res.cloudinary.com/panachora/image/upload/v1722243835/dealhub/Clothing/Jordan%20Sport/Jordan_Sport.png"
+            },
+            {
+                "id": 8,
+                "src": "https://res.cloudinary.com/panachora/image/upload/v1722243835/dealhub/Clothing/Jordan%20Sport/Jordan_Sport-1.png"
+            },{
+                "id": 9,
+                "src": "https://res.cloudinary.com/panachora/image/upload/v1722243835/dealhub/Clothing/Jordan%20Sport/Jordan_Sport-2.png"
+            }
+        ],
+        "averageRating": 5.00
+    },
+    {
+        "id": 6,
+        "name": "Nike Windrunner",
+        "price": 100,
+        "salePrice": 0.00,
+        "description": "The Nike Sportswear Windrunner Jacket updates our first running windbreaker with lightweight fabric made from recycled materials. Design details pulled from the original version provide a heritage Nike look. This product is made with 100% recycled polyester fibers.",
+        "shortDesc": "The Nike Sportswear Windrunner Jacket updates our first running windbreaker with lightweight fabric made from recycled materials.",
+        "thumb": "https://res.cloudinary.com/panachora/image/upload/v1722243849/dealhub/Clothing/Nike%20Windrunner/Nike_Windrunner-thumb_2.png",
+        "category": "Clothing",
+        "featured": false,
+        "images": [
+            {
+                "id": 7,
+                "src": "https://res.cloudinary.com/panachora/image/upload/v1722243850/dealhub/Clothing/Nike%20Windrunner/Nike_Windrunner-2.png"
+            },
+            {
+                "id": 8,
+                "src": "https://res.cloudinary.com/panachora/image/upload/v1722243850/dealhub/Clothing/Nike%20Windrunner/Nike_Windrunner.png"
+            },{
+                "id": 9,
+                "src": "https://res.cloudinary.com/panachora/image/upload/v1722243850/dealhub/Clothing/Nike%20Windrunner/Nike_Windrunner-3.png"
+            },{
+                "id": 10,
+                "src": "https://res.cloudinary.com/panachora/image/upload/v1722243849/dealhub/Clothing/Nike%20Windrunner/Nike_Windrunner-1.png"
+            }
+        ],
+        "averageRating": 5.00
     }
 ]
 
